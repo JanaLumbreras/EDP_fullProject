@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.exe.config
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.exe
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.pdb
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmLogin.resources
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.Properties.Resources.resources
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.GenerateResource.cache
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.exe
+C:\Users\1\source\repos\LumbrerasJanaLeiBSIT2A\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.pdb
