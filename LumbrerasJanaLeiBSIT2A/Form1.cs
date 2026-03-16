@@ -17,6 +17,13 @@ namespace LumbrerasJanaLeiBSIT2A
             InitializeComponent();
         }
 
+        string[,] userCredentials =
+        {
+            {"admin", "cashier"}, //username
+            {"admin", "password"}, //password
+            {"Jana Lei Lumbreras", "Secret lang to"},
+            {"Admin Department", "Staff Department"}
+        };
        
 
         private void btnLogin_Click(object sender, EventArgs e)
@@ -33,7 +40,26 @@ namespace LumbrerasJanaLeiBSIT2A
             }
             else
             {
-                MessageBox.Show("Welcome, " + tbUsername.Text + "!","Login Successful");
+                for(int x = 0; x < userCredentials.Length; x++)
+                {
+                    if (userCredentials[0,x] == tbUsername.Text)
+                    {
+                        if (userCredentials[1,x] == tbPassword.Text)
+                        {
+                            MessageBox.Show("Welcome " + userCredentials[2, x] + " from " + userCredentials[3, x]);
+                            frmHome frm = new frmHome();
+                            this.Hide();
+                            frm.Show();
+                            break;
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("Invalid username/password");
+                        break;
+                    }
+                }
+                
             }
         }
     }
