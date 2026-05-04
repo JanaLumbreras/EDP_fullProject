@@ -58,6 +58,42 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPricebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPricebook.Designer.cs">
+      <DependentUpon>frmPricebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStore.Designer.cs">
+      <DependentUpon>frmStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTime.Designer.cs">
+      <DependentUpon>frmTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsers.Designer.cs">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendors.Designer.cs">
+      <DependentUpon>frmVendors.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -94,6 +130,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\blue-swirl-water-wave-ornament-border-design-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper-fold-text-line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building-store.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-4-line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users-round.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-round.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock-line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log out.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

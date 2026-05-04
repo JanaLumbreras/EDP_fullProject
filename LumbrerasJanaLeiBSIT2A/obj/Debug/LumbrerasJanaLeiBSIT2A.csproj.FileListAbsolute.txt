@@ -19,3 +19,14 @@ C:\Users\1\Desktop\New folder (3)\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJana
 C:\Users\1\Desktop\New folder (3)\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.exe
 C:\Users\1\Desktop\New folder (3)\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.pdb
 C:\Users\1\Desktop\New folder (3)\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmHome.resources
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.exe.config
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.exe
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.pdb
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.AssemblyReference.cache
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmLogin.resources
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmHome.resources
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.Properties.Resources.resources
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.GenerateResource.cache
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.CoreCompileInputs.cache
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.exe
+C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.pdb
