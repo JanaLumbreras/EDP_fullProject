@@ -43,3 +43,26 @@ C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debu
 C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmUsers.resources
 C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmVendors.resources
 C:\Users\PCU GUEST\source\repos\edp_full_project\LumbrerasJanaLeiBSIT2A\obj\Debug\Lumbrera.056CBF83.Up2Date
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.exe.config
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.exe
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\bin\Debug\LumbrerasJanaLeiBSIT2A.pdb
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\bin\Debug\System.Memory.dll
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\bin\Debug\System.Buffers.dll
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\bin\Debug\MySql.Data.xml
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.AssemblyReference.cache
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmLogin.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmHome.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmPricebook.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmRegister.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmStore.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmTime.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmUsers.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.frmVendors.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.Properties.Resources.resources
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.GenerateResource.cache
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.csproj.CoreCompileInputs.cache
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\Lumbrera.056CBF83.Up2Date
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.exe
+C:\Users\Jana Lei Lumbreras\source\repos\EDP\LumbrerasJanaLeiBSIT2A\obj\Debug\LumbrerasJanaLeiBSIT2A.pdb
