@@ -47,9 +47,6 @@ namespace LumbrerasJanaLeiBSIT2A
             dgvUsers.Columns[0].Visible = false;
             dgvUsers.Columns[1].Visible = false;
 
-            foreach (DataRow row in dt.Rows)
-                row["Password"] = "*****";
-
         }
 
         private void LoadGrid()
@@ -228,6 +225,14 @@ namespace LumbrerasJanaLeiBSIT2A
 
             
             
+        }
+
+        private void dgvUsers_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
+        {
+            if (e.ColumnIndex == 9 && e.Value != null)
+            {
+                e.Value = new string('*', e.Value.ToString().Length);
+            }
         }
     }
 }
